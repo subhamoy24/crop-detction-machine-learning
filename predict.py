@@ -3,7 +3,6 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
-import copy
 data=pd.read_csv('cpdata.csv')
 #print(data.head)
 
@@ -28,9 +27,9 @@ print('Accuracy :',metrics.accuracy_score(y_test,pred))
 def getPred(query):
     o=model.predict(query)
     print(o)
-    return mapped[o]
+    return mapped[o][0]
 
-getPred([[27.35152643,55.99375012,7.13411409,148.9812525]])
+print(getPred([[27.35152643,55.99375012,7.13411409,148.9812525]]))
 
 '''
 p=list(label.columns)
