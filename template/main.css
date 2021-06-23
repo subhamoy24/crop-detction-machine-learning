@@ -1,0 +1,15 @@
+ .in{
+    margin-left: 40%;
+    margin-top: 50px;
+ }
+ .group  h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn{
+    margin-top: 15px;
+    padding-inline: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
