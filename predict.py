@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
+import json 
 data=pd.read_csv('cpdata.csv')
 #print(data.head)
 
@@ -27,9 +28,16 @@ print('Accuracy :',metrics.accuracy_score(y_test,pred))
 def getPred(query):
     o=model.predict(query)
     print(o)
-    return mapped[o][0]
+    with open('info.json',encoding='utf-8') as f:
+        cp_data=json.load(f)
+    m=Ly.inverse_transform(o)
+    d=cp_data[m[0]]
+    d['crop name']=m[0]
+    f.close()
+    return d
+    #return m[0]
 
-print(getPred([[27.35152643,55.99375012,7.13411409,148.9812525]]))
+print(getPred([[27.35152643,55.99375012,7.13411409,148.9812525]])["crop name"])
 
 '''
 p=list(label.columns)
