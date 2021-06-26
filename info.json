@@ -121,7 +121,7 @@
         "image2":"https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/peas-and-pea-pods.jpg?itok=trD6N79A"
 
     },
-    "Pegeon Peas":{
+    "Pigeon Peas":{
         "common name":"Pigeon pea, no-eye pea, no-eyed pea, tropical green pea, cajan pea [English]; pois d'Angole, pois cajan, pois-congo, ambrevade [French]; guandú, gandul, guandul, frijol de palo, quinchoncho [Spanish]; guandu, andu, anduzeiro, guandeiro, feijão boer [Portuguese]; Straucherbse [German]; pwa kongo [Haitian creole]; gude, kacang gude [Indonesian]; caiano [Italian]; umukunde [Kinyarwanda]; pī kula [Tongan]; Đậu triều [Vietnamese]; 木豆 [Chinese]; તુવર [Gujarati]; अरहर दाल [Hindi]; キマメ [Japanese]; نخود کفتری [Persian]; Голубиный горох [Russian]; துவரை [Tamil]",
         "description":"Pigeon pea (Cajanus cajan (L.) Huth) is one of the most common tropical and subtropical legumes cultivated for its edible seeds. Pigeon pea is fast growing, hardy, widely adaptable, and drought resistant (Bekele-Tessema, 2007). Because of its drought resistance it can be considered of the utmost importance for food security in regions where rainfall is unreliable and droughts are prone to occur",
         "plant":"Pigeonpea, Cajanus cajan, is a perennial shrub in the family Fabaceae grown for its edible pods and seeds. Pigeonpea is a highly branched shrub with a woody base, slender stems and trifoliate leaves. The plant leaflets are oblong or elliptical in shape and the leaves are alternate and arranged spirally on the stems. The plant usually produces yellow flowers, but they can be yellow with streaks of purple or red. The flowers are produced on racemes of 5–10 flowers.",
@@ -141,7 +141,7 @@
         "image1":"https://cdn.britannica.com/21/75921-050-A34DC6E2/Latex-rubber-tree.jpg",
         "image2":"https://gardenerspath.com/wp-content/uploads/2021/03/How-to-Grow-Rubber-Tree-FB.jpg"
     },
-    "Sugar Cane":{
+    "SugarCane":{
         "common name":"Sugarcane or sugar cane refers to several species and hybrids of tall perennial grass in the genus Saccharum, tribe Andropogoneae",
         "description1":"ucrose (table sugar) is extracted from sugarcane in specialized mill factories. It is consumed directly in confectionery, used to sweeten beverages, as a preservative in jams and conserves, as a decorative finish for cakes and pâtisserie, as a raw material in the food industry, or fermented to produce ethanol. Products derived from fermentation of sugar include falernum, rum, and cachaça. In some regions, people use sugarcane reeds to make pens, mats, screens, and thatch. The young, unexpanded flower head of Saccharum edule (duruka) is eaten raw, steamed, or toasted, and prepared in various ways in Southeast Asia, including Fiji and certain island communities of Indonesia",
         "plant":"The plants are 2-6 m (6-20 ft) tall with stout, jointed, fibrous stalks that are rich in sucrose, which accumulates in the stalk internodes. Sugarcanes belong to the grass family, Poaceae, an economically important flowering plant family that includes maize, wheat, rice, and sorghum, and many forage crops",
@@ -247,6 +247,16 @@
         "production":"India leads the world in papaya production with an annual output of about 3 million tonnes. Other leading producers are Brazil, Mexico, Nigeria, Indonesia, China, Peru, Thailand and Philippines.",
         "image1":"https://www.garden.eco/wp-content/uploads/2018/07/papaya-tree-care.jpg",
         "image2":"https://images-prod.healthline.com/hlcmsresource/images/AN_images/papaya-benefits-1296x728-feature.jpg"
+    },
+    "orange":{
+        "common name":"Sweet Orange • Hindi: माल्टा Malta, मौसम्बी Mosambi • Kannada: ಈಳೆ Eele, ಕಮಲಾಹಣ್ಣು Kamala hanuu, ಮೂಸಂಬಿ Moosambi ಸಾತಗಡಿ Saatagaḍi • Manipuri: ꯃꯨꯁꯝꯕꯤ Musambi • Nepali: मौसमी Mausami • Sanskrit: नागरंगा Nagaranga • Tamil: Charukkaraikkolumiccai, Charukkarainarattai • Telugu: బత్తాయి నారింజ battayi",
+        "description1":"The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis,[1] which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations",
+        "plant":"Orange plant (Citrus x sinensis) belongs to the Rutaceae family. It is a flowering tree and its height in maturity can range between 16 and 50 ft. (between 5 and 15 m). Orange tree is grown mostly for its fruits, but also for its flowers and as an ornamental",
+        "fruit":"Oranges are round orange-coloured fruit that grow on a tree which can reach 10 metres (33 ft) high. Orange trees have dark green shiny leaves and small white flowers with five petals. The flowers smell very sweet which attracts many bees. An orange has a tough shiny orange skin.",
+        "cultivation":"Like most citrus plants, oranges do well under moderate temperatures—between 15.5 and 29 °C (59.9 and 84.2 °F)—and require considerable amounts of sunshine and water.Orange orchards are generally planted in relatively deep soil where drainage is good. The orange trees are usually budded on stocks grown from the seed of selected trees. The seeds are sown in well-prepared soil in a lath house; after about 12 months' growth there, the seedlings are removed to a nursery.",
+        "production":"In 2019, world production of oranges was 79 million tonnes, led by Brazil with 22% of the total, followed by China, India, the United States, and Mexico as other major producers.In the United States, groves are located mainly in Florida, California, and Texas.[86] The majority of California's crop is sold as fresh fruit, whereas Florida's oranges are destined to juice products. The Indian River area of Florida is known for the high quality of its juice, which often is sold fresh in the United States",
+        "image1":"https://i.guim.co.uk/img/media/e8d52b4756fa83b2082b31ee64185597a9997d9f/0_171_5130_3078/master/5130.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=b7d113e77052ae98b77aaa3d3003af75",
+        "image2":"https://assetscdn1.paytm.com/images/catalog/product/H/HO/HOMPLANT-HOUSE-PLAN996525B1A763A1/1576893952130_0..jpg?imwidth=320&impolicy=hq"
     },
     "pomegranate":{
         "common name":"Pomegranate, • Hindi: Anar अनार • Kannada: ದಾಳಿಂಬೆ Daalimbe, ದಾಳಿಂಬ Daalimba, ದಾಡಿಂಬೆ Daadimbe, ದಾಡಿಂಬ Daadimba, ದಾಡಿಮ Daadima • Manipuri: ꯀꯐꯣꯏ Kaphoi • Marathi: Dalimb डाळिंब • Mizo: Theibuhfai, Manding • Angami: Touram • Telugu: దానిమ్మ Danimma • Tamil: மாதுளை Madulai • Urdu: ﺍﻧﺎﺭ",
